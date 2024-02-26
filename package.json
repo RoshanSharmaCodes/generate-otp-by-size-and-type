@@ -1,0 +1,19 @@
+{
+  "name": "generate-otp-by-size-and-type",
+  "version": "1.1.0",
+  "description": "This package helps in generating random OTP which you can configure by size and the type of OTP you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoshanSharmaCodes/generate-otp-by-size-and-type.git"
+  },
+  "author": "Roshan Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoshanSharmaCodes/generate-otp-by-size-and-type/issues"
+  },
+  "homepage": "https://github.com/RoshanSharmaCodes/generate-otp-by-size-and-type#readme"
+}
